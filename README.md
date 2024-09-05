@@ -14,7 +14,9 @@ I want to display my technical and data visualization skills through some intere
  - Bachelor of Arts, Biology, 2019 - 2023
  -  Master of Science, Health Data Analytics, 2023-2024
 
-## 
+## DATA PROJECTS
+1. Data Cleaning and Exploratory Data Analysis
+   
 
 
 
