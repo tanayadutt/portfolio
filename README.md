@@ -15,7 +15,11 @@ I want to display my technical and data visualization skills through some intere
  -  Master of Science, Health Data Analytics, 2023-2024
 
 ## DATA PROJECTS
-1. Data Cleaning and Exploratory Data Analysis
+1. Data Cleaning and Exploratory Data Analysis with **Python** (Students Performance Factors Analysis)
+2. Data Cleaning and Exploratory Data Analysis with **Python** (OPT International Students Analysis)
+3. Data Exploration with **SQL**
+4. Data Visualization with **Tableau** and **Power BI**
+   
    
 
 
