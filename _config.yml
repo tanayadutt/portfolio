@@ -1,5 +1,5 @@
 title : Tanaya Dutt
-logo : "/Headshot.png"
+logo : /assets/images/Headshot.png
 description : text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
