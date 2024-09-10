@@ -1,5 +1,5 @@
 title : Tanaya Dutt
 logo : portfolio/Headshot.png
 description : text below image
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
