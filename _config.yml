@@ -1,5 +1,5 @@
 title : Tanaya Dutt
 logo : C:\Users\19407\Downloads\Headshot.png
-#description : text below image
-#show_downloads: true
+description : text below image
+show_downloads: true
 theme: jekyll-theme-minimal
