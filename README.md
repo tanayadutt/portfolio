@@ -16,7 +16,7 @@ I want to display my technical and data visualization skills through some intere
 
 ## DATA PROJECTS
 1. [Data Cleaning and Exploratory Data Analysis with **Python** (Students Performance Factors Analysis)](https://github.com/tanayadutt/Data-Projects-Tanaya-Dutt-)
-2. Data Cleaning and Exploratory Data Analysis with **Python** (OPT International Students Analysis)
+2. Superstore sales and profit dashboard (Excel)
 3. Data Exploration with **SQL**
 4. Data Visualization with **Tableau** and **Power BI**
    
