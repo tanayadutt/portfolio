@@ -19,6 +19,9 @@ I want to display my technical and data visualization skills through some intere
 2. Superstore sales and profit dashboard (Excel)
 3. Data Exploration with **SQL**
 4. Data Visualization with **Tableau** and **Power BI**
+
+## SNEAK PEAK
+1. Dashboard
    
    
 
