@@ -15,10 +15,10 @@ I want to display my technical and data visualization skills through some intere
  -  Master of Science, Health Data Analytics, 2023-2024
 
 ## DATA PROJECTS
-1. Students Performace Factors Analysis (Students Performance Factors Analysis)](https://github.com/tanayadutt/Data-Projects-Tanaya-Dutt-)
+1. [Students Performace Factors Analysis](https://github.com/tanayadutt/Data-Projects-Tanaya-Dutt-)
    - Tools: Python (Pandas, NumPy, Seaborn)
    - Focus: Data Cleaning and Exploratory Data Analysis
-3. Superstore sales and profit dashboard
+3. [Superstore sales and profit dashboard](https://github.com/tanayadutt/Excel-Projects)
    - Tools : Excel (Dashboarding, Pivot Tables)
    - Focus: Data Cleaning and Dashboards
 5. Data Exploration with **SQL**
