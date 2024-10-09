@@ -6,7 +6,7 @@ Technical Skills : Python, SQL, Google CLoud Platform, Excel, Altryx
 
 Hello! Welcome to my data analyst portfolio! My name is Tanaya Dutt, and I am passionate about transforming data into actionable insights. With a strong background in healthcare analytics and a keen interest in leveraging data to drive strategic decisions, I have honed my skills in data manipulation, visualization, and statistical analysis.
 
-I want to display my technical and data visualization skills through some interesting but simple projects!
+I want to display my technical and data visualization skills through some projects that I found interesting!
 [LinkedIn](https://www.linkedin.com/in/tanayadutt/)
 
 ## EDUCATION
@@ -21,8 +21,7 @@ I want to display my technical and data visualization skills through some intere
 3. [Superstore sales and profit dashboard](https://github.com/tanayadutt/Excel-Projects)
    - Tools : Excel (Dashboarding, Pivot Tables)
    - Focus: Data Cleaning and Dashboards
-5. Data Exploration with **SQL**
-6. Data Visualization with **Tableau** and **Power BI**
+5. Sales Analysis with **Python**
 
 ## SNEAK PEAK
 1. Dashboard
